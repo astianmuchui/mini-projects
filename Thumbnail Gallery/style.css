@@ -6,16 +6,15 @@
   body {
     margin: 20px;
     padding: 0;
-    background: #333;
+    background: rgb(2, 2, 17);
   }
   
   .container {
     max-width: 760px;
-    margin: auto;
+    margin: 0 auto;
     border: #fff solid 3px;
     background: #fff;
   }
-  
   .main-img img,
   .imgs img {
     width: 100%;
